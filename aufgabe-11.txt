@@ -1,0 +1,10 @@
+Anwendungsfälle für git log:
+
+1. Kompakte Commit-Historie anzeigen:
+   git log --oneline --graph --decorate --all
+
+2. Änderungen eines bestimmten Autors filtern:
+   git log --author="Dein Name" --since="1 week ago"
+
+3. Commit-Historie einer bestimmten Datei anzeigen:
+   git log -- filename.txt
