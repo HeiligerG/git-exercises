@@ -1,0 +1,17 @@
+1. keine
+2.diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..adb36c8
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++*.exe
+\ No newline at end of file
+diff --git a/bar.txt b/bar.txt
+new file mode 100644
+index 0000000..296458e
+Binary files /dev/null and b/bar.txt differ
+diff --git a/foo.txt b/foo.txt
+new file mode 100644
+index 0000000..c75b3dc
+Binary files /dev/null and b/foo.txt differ

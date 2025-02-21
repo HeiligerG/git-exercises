@@ -1,0 +1,2 @@
+bei aufgabe 3 sind alle mit ??
+und bei aufgabe 4 haben foo.txt und bar.txt ein A statt ??
